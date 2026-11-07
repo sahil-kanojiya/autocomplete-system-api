@@ -1,6 +1,6 @@
-package com.example.AutocompleteSystem.controller;
+package com.example.autocomplete.controller;
 
-import com.example.AutocompleteSystem.service.AutocompleteService;
+import com.example.autocomplete.service.AutocompleteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.typesense.api.Document;

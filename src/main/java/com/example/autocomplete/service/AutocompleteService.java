@@ -1,6 +1,6 @@
-package com.example.AutocompleteSystem.service;
+package com.example.autocomplete.service;
 
-import com.example.AutocompleteSystem.model.Suggestion;
+import com.example.autocomplete.model.Suggestion;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

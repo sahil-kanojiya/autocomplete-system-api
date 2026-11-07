@@ -1,4 +1,4 @@
-package com.example.AutocompleteSystem.model;
+package com.example.autocomplete.model;
 
 public class Suggestion {
 
